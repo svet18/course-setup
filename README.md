@@ -1,2 +1,2 @@
-# course-setup
+# course-setup instructions
 
